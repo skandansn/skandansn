@@ -1,7 +1,5 @@
 ### Hi there!
 
-# Skandan Senthil Nathan
-
 ## Front-end web technologies I know:
 React, Flutter
 
