@@ -7,7 +7,7 @@ React, Flutter
 PHP (Laravel), Go (Gin), Python (Django, FastAPI), JavaScript (Node.JS), Java
 
 ## Development Infra:
-Kubernetes, Git, Docker
+AWS, Kubernetes, Git, Docker
 
 ## Reach out to me at:
 Mail: skandansenthilnathan@gmail.com
