@@ -1,10 +1,10 @@
 ### Hi there!
 
 ## Front-end web technologies I know:
-React, Flutter
+React, NextJS, Flutter
 
 ## Back-end web technologies I know:
-PHP (Laravel), Go (Gin), Python (Django, FastAPI), JavaScript (Node.JS), Java
+PHP (Laravel), Go (Gin), Python (Django, FastAPI), JavaScript / TypeScript (Node.JS), Java
 
 ## Development Infra:
 AWS, Kubernetes, Git, Docker
